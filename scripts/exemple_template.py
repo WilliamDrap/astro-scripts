@@ -7,7 +7,5 @@ Exemple d'usage :
     python scripts/exemple_template.py --date 2026-08-12
 
 Ce fichier est un gabarit. Remplacer par le vrai script et supprimer
-ce commentaire. Documenter ensuite ce script dans le vault Obsidian,
-dossier 03 - Python, avec un lien vers les notes de 02 - Ressources
-qu'il illustre ou permet de calculer.
+ce commentaire. 
 """
