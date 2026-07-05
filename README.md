@@ -1,8 +1,6 @@
 # astro-scripts
 
-Scripts Python (principalement astropy) utilisés pour mon activité de vulgarisation scientifique en astronomie et astrophysique : calculs d'éphémérides, préparation d'articles sur des évènements astronomiques (éclipses, oppositions, etc.), et traitements associés à l'astrophotographie.
-
-Ce dépôt contient le code. La documentation de chaque script (objectif, dépendances, exemple d'usage, lien vers les concepts associés) vit séparément dans mon vault Obsidian, dossier `03 - Python`.
+Ce dépôt est un espace de calcul partagé regroupant mes scripts Python, principalement basés sur astropy : calculs d'éphémérides, préparation des évènements astronomiques (éclipses, oppositions, etc.), et traitements associés à l'astrophotographie.
 
 ## Structure
 
