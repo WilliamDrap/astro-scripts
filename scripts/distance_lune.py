@@ -1,8 +1,3 @@
-Je n'ai pas de connecteur GitHub actif pour agir directement sur ton dépôt astro-scripts. Le système me propose de vérifier les connecteurs disponibles, je te laisse répondre à la demande d'autorisation qui vient de s'afficher si tu veux que je configure ça.
-
-En attendant, voici le script avec le commentaire intégré, prêt à être ajouté toi même au dépôt :
-
-```python
 from astropy.time import Time
 from astropy.coordinates import get_body_barycentric
 from astropy import units as u
@@ -31,6 +26,3 @@ if __name__ == "__main__":
     d = distance_terre_lune(instant)
     print(f"Distance Terre-Lune le {instant} UTC : {d:.1f}")
     print(f"Soit environ {d.to(u.au):.6f} unités astronomiques")
-```
-
-Dis moi si tu veux que j'établisse la connexion GitHub pour pousser directement les fichiers, ou si tu préfères simplement copier ce script dans ton dépôt.
